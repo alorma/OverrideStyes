@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+  <style name="AppTheme"
+         parent="Theme.AppCompat.Light.DarkActionBar">
+    <item name="colorPrimary">@color/colorPrimary</item>
+    <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+  </style>
+
+  <style name="GreenInboxTheme"
+         parent="Mc_Theme">
+    <item name="colorPrimary">#2E7D32</item>
+    <item name="colorPrimaryDark">#1B5E20</item>
+    <item name="mcBubbleInStyle">@style/GreenBubbleIn</item>
+    <item name="mcBubbleOutStyle">@style/YellowBubbleOut</item>
+  </style>
+
+</resources>

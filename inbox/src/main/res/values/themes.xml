@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+  <style name="Mc_Theme" parent="Theme.AppCompat.Light.DarkActionBar">
+    <item name="colorPrimary">#C2185B</item>
+    <item name="colorPrimaryDark">#880E4F</item>
+    <item name="mcBubbleInStyle">@style/BubbleIn</item>
+    <item name="mcBubbleOutStyle">@style/BubbleOut</item>
+  </style>
+
+</resources>
